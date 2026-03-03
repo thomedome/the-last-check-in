@@ -1,5 +1,9 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 ﻿Log file open, 03/02/26 18:17:32
+=======
+﻿Log file open, 03/02/26 01:00:37
+>>>>>>> Stashed changes
 =======
 ﻿Log file open, 03/02/26 01:00:37
 >>>>>>> Stashed changes
@@ -11,7 +15,12 @@ LogWindows: File 'VtuneApi.dll' does not exist
 LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
 LogWindows: File 'VtuneApi32e.dll' does not exist
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 LogWindows: Started CrashReportClient (pid=32420)
+=======
+LogWindows: Started CrashReportClient (pid=46576)
+LogWindows: Enabling Tpause support
+>>>>>>> Stashed changes
 =======
 LogWindows: Started CrashReportClient (pid=46576)
 LogWindows: Enabling Tpause support
@@ -28,7 +37,11 @@ LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.4-CL-35576
 LogCsvProfiler: Display: Metadata set : engineversion="5.4.4-35576357+++UE5+Release-5.4"
 LogCsvProfiler: Display: Metadata set : os="Windows 11 (25H2) [10.0.26200.7840] "
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|11th Gen Intel(R) Core(TM) i7-11700KF @ 3.60GHz"
+=======
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|13th Gen Intel(R) Core(TM) i5-13600KF"
+>>>>>>> Stashed changes
 =======
 LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|13th Gen Intel(R) Core(TM) i5-13600KF"
 >>>>>>> Stashed changes
@@ -36,6 +49,7 @@ LogCsvProfiler: Display: Metadata set : pgoenabled="0"
 LogCsvProfiler: Display: Metadata set : pgoprofilingenabled="0"
 LogCsvProfiler: Display: Metadata set : ltoenabled="0"
 LogCsvProfiler: Display: Metadata set : asan="0"
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 LogCsvProfiler: Display: Metadata set : commandline="" D:\TheLastCheckInGITHUB\the-last-check-in\EvidencePrototype.uproject""
 LogCsvProfiler: Display: Metadata set : loginid="1b120b3041d830b61aa67093856a5585"
@@ -233,6 +247,8 @@ LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
 LogPluginManager: Mounting Engine plugin PortableObjectFileDataSource
 LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
 =======
+=======
+>>>>>>> Stashed changes
 LogCsvProfiler: Display: Metadata set : commandline="" C:\Users\win11\Documents\GitHub\the-last-check-in\EvidencePrototype.uproject""
 LogCsvProfiler: Display: Metadata set : loginid="f10e749f4e5f292ad7c55389a493ca41"
 LogCsvProfiler: Display: Metadata set : llm="0"
@@ -432,6 +448,9 @@ LogPluginManager: Mounting Engine plugin ObjectMixer
 LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
 LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
 LogPluginManager: Mounting Engine plugin MetaHumanProjectUtilities
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 SourceControl: Revision control is disabled
 SourceControl: Revision control is disabled
@@ -440,13 +459,19 @@ LogStudioTelemetry: Display: Starting StudioTelemetry Module
 LogStudioTelemetry: Display: Created an analytics provider LogAnalytics from module AnalyticsLog configuration Engine [StudioTelemetry.Log]
 LogStudioTelemetry: Started StudioTelemetry Session
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
+=======
+>>>>>>> Stashed changes
 LogWindows: Failed to load 'WinPixGpuCapturer.dll' (GetLastError=126)
 LogWindows: File 'WinPixGpuCapturer.dll' does not exist
 PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
 LogConfig: Applying CVar settings from Section [/Script/RenderDocPlugin.RenderDocPluginSettings] File [Engine]
 RenderDocPlugin: Display: RenderDoc plugin will not be loaded. Use '-AttachRenderDoc' on the cmd line or enable 'renderdoc.AutoAttach' in the plugin settings.
 LogEOSSDK: Initializing EOSSDK Version:1.16.3-32303053
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 LogInit: Using libcurl 8.4.0
 LogInit:  - built for Windows
@@ -470,6 +495,7 @@ LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
 LogOnline: OSS: Created online subsystem instance for: NULL
 LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 LogWindows: Failed to load 'WinPixGpuCapturer.dll' (GetLastError=126)
 LogWindows: File 'WinPixGpuCapturer.dll' does not exist
 PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
@@ -480,17 +506,26 @@ LogInit: Build: ++UE5+Release-5.4-CL-35576357
 LogInit: Platform=WindowsEditor
 LogInit: MachineId=1b120b3041d830b61aa67093856a5585
 =======
+=======
+>>>>>>> Stashed changes
 LogInit: ExecutableName: UnrealEditor.exe
 LogInit: Build: ++UE5+Release-5.4-CL-35576357
 LogInit: Platform=WindowsEditor
 LogInit: MachineId=f10e749f4e5f292ad7c55389a493ca41
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 LogInit: DeviceId=
 LogInit: Engine Version: 5.4.4-35576357+++UE5+Release-5.4
 LogInit: Compatible Engine Version: 5.4.0-33043543+++UE5+Release-5.4
 LogInit: Net CL: 33043543
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 LogInit: OS: Windows 11 (25H2) [10.0.26200.7840] (), CPU: 11th Gen Intel(R) Core(TM) i7-11700KF @ 3.60GHz, GPU: NVIDIA GeForce RTX 3070 Ti
+=======
+LogInit: OS: Windows 11 (25H2) [10.0.26200.7840] (), CPU: 13th Gen Intel(R) Core(TM) i5-13600KF, GPU: NVIDIA GeForce RTX 4070 Ti
+>>>>>>> Stashed changes
 =======
 LogInit: OS: Windows 11 (25H2) [10.0.26200.7840] (), CPU: 13th Gen Intel(R) Core(TM) i5-13600KF, GPU: NVIDIA GeForce RTX 4070 Ti
 >>>>>>> Stashed changes
@@ -501,7 +536,11 @@ LogInit: Build Configuration: Development
 LogInit: Branch Name: ++UE5+Release-5.4
 LogInit: Command Line: 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 LogInit: Base Directory: E:/EpicGamesLibrary/UE_5.4/Engine/Binaries/Win64/
+=======
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_5.4/Engine/Binaries/Win64/
+>>>>>>> Stashed changes
 =======
 LogInit: Base Directory: C:/Program Files/Epic Games/UE_5.4/Engine/Binaries/Win64/
 >>>>>>> Stashed changes
@@ -558,6 +597,7 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 LogConfig: CVar [[r.Occlusion.SingleRHIThreadStall:1]] deferred - dummy variable created
 LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 LogConfig: CVar [[D3D12.Bindless.ResourceDescriptorHeapSize:100000]] deferred - dummy variable created
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 [2026.03.02-18.17.33:142][  0]LogConfig: CVar [[D3D12.Bindless.SamplerDescriptorHeapSize:2048]] deferred - dummy variable created
 [2026.03.02-18.17.33:142][  0]LogConfig: Set CVar [[r.VSync:0]]
@@ -1999,6 +2039,8 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2026.03.02-18.28.40:460][ 97]LogExit: Exiting.
 [2026.03.02-18.28.40:489][ 97]Log file closed, 03/02/26 18:28:40
 =======
+=======
+>>>>>>> Stashed changes
 LogConfig: CVar [[D3D12.Bindless.SamplerDescriptorHeapSize:2048]] deferred - dummy variable created
 [2026.03.02-01.00.37:945][  0]LogConfig: Set CVar [[r.VSync:0]]
 [2026.03.02-01.00.37:945][  0]LogConfig: Set CVar [[r.RHICmdBypass:0]]
@@ -3252,4 +3294,7 @@ Make sure 'BP_FirstPersonCharacter' has been compiled for  EnhancedInputAction N
 [2026.03.02-02.58.53:951][862]LogD3D12RHI: ~FD3D12DynamicRHI
 [2026.03.02-02.58.53:989][862]LogExit: Exiting.
 [2026.03.02-02.58.54:006][862]Log file closed, 03/02/26 02:58:54
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
