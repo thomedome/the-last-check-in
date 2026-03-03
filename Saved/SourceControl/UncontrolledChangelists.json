@@ -5,25 +5,26 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-				"C:/Users/ebrob/OneDrive/Documents/GitHub/the-last-check-in/Content/LCI_Stuff/BP_Interactable.uasset",
-				"C:/Users/ebrob/OneDrive/Documents/GitHub/the-last-check-in/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
-				"C:/Users/ebrob/OneDrive/Documents/GitHub/the-last-check-in/Content/LCI_Stuff/Dialogue/WBP_DialogueOptions.uasset",
-				"C:/Users/ebrob/OneDrive/Documents/GitHub/the-last-check-in/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/K5/0BQ33S5YHTQLWZNO1Y0MV7.uasset",
-				"C:/Users/ebrob/OneDrive/Documents/GitHub/the-last-check-in/Content/FirstPerson/Input/IMC_Default.uasset"
-=======
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
+				"D:/TheLastCheckInGITHUB/the-last-check-in/Content/TemplateContent/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"D:/TheLastCheckInGITHUB/the-last-check-in/Content/Eben_Work/Dialogue/STR_DialogueStructorJeff.uasset",
+				"D:/TheLastCheckInGITHUB/the-last-check-in/Content/Eben_Work/Dialogue/DT_DialogueDataTableJeff.uasset",
+				"D:/TheLastCheckInGITHUB/the-last-check-in/Content/Eben_Work/Dialogue/WBP_DialogueOptions.uasset",
+				"D:/TheLastCheckInGITHUB/the-last-check-in/Content/Eben_Work/WBP_InteractionPrompt.uasset",
+				"D:/TheLastCheckInGITHUB/the-last-check-in/Content/Eben_Work/BP_DialogueTest.uasset",
 				"D:/TheLastCheckInGITHUB/the-last-check-in/Content/LCI_Stuff/BP_DialogueTest.uasset",
-				"D:/TheLastCheckInGITHUB/the-last-check-in/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"D:/TheLastCheckInGITHUB/the-last-check-in/Content/Eben_Work/BP_Interactable.uasset",
+				"D:/TheLastCheckInGITHUB/the-last-check-in/Content/LCI_Stuff/BP_Interactable.uasset",
+				"D:/TheLastCheckInGITHUB/the-last-check-in/Content/Eben_Work/BP_Interactable_C.uasset",
+				"D:/TheLastCheckInGITHUB/the-last-check-in/Content/Eben_Work/Default__BP_Interactable_C.uasset",
+				"D:/TheLastCheckInGITHUB/the-last-check-in/Content/Eben_Work/BP_IAmAKey.uasset",
+				"D:/TheLastCheckInGITHUB/the-last-check-in/Content/LCI_Stuff/BP_IAmAKey.uasset",
+				"D:/TheLastCheckInGITHUB/the-last-check-in/Content/Eben_Work/Dialogue/WBP_Dialogue.uasset",
+				"D:/TheLastCheckInGITHUB/the-last-check-in/Content/LCI_Stuff/Dialogue/WBP_Dialogue.uasset",
+				"D:/TheLastCheckInGITHUB/the-last-check-in/Content/LCI_Stuff/WBP_InteractionPrompt.uasset",
 				"D:/TheLastCheckInGITHUB/the-last-check-in/Content/LCI_Stuff/Dialogue/WBP_DialogueOptions.uasset",
+				"D:/TheLastCheckInGITHUB/the-last-check-in/Content/LCI_Stuff/Dialogue/DT_DialogueDataTableJeff.uasset",
+				"D:/TheLastCheckInGITHUB/the-last-check-in/Content/LCI_Stuff/Dialogue/STR_DialogueStructorJeff.uasset",
+				"D:/TheLastCheckInGITHUB/the-last-check-in/Content/__ExternalActors__/TemplateContent/FirstPerson/Maps/FirstPersonMap/9/U8/IQK72MA104R3DC135ZCW2W.uasset",
 				"C:/Users/win11/Documents/GitHub/the-last-check-in/Content/DataTypes/Struct_Item.uasset",
 				"C:/Users/win11/Documents/GitHub/the-last-check-in/Content/__ExternalActors__/TemplateContent/FirstPerson/Maps/FirstPersonMap/1/7N/NWPJO95EUPMVS8P3BX1RM1.uasset",
 				"C:/Users/win11/Documents/GitHub/the-last-check-in/Content/__ExternalObjects__/TemplateContent/FirstPerson/Maps/FirstPersonMap/1/6N/OA1XDBOFH0YLMBVGWF4Y0H.uasset",
@@ -348,7 +349,6 @@
 				"C:/Users/win11/Documents/GitHub/the-last-check-in/Content/LevelPrototyping/Materials/MF_ProcGrid.uasset",
 				"C:/Users/win11/Documents/GitHub/the-last-check-in/Content/LevelPrototyping/Textures/T_GridChecker_A.uasset",
 				"C:/Users/win11/Documents/GitHub/the-last-check-in/Content/__ExternalActors__/TemplateContent/FirstPerson/Maps/FirstPersonMap/B/AV/FA7UX9896GZ96AV28849II.uasset"
->>>>>>> Stashed changes
 			]
 		}
 	]
