@@ -26,6 +26,7 @@
 				"C:/Users/win11/Documents/GitHub/the-last-check-in/Content/__ExternalActors__/tomWork/TemplateContent/FirstPerson/Maps/FirstPersonMap/0/JQ/79P43SCD32YDV6SMLEFJRI.uasset",
 				"C:/Users/win11/Documents/GitHub/the-last-check-in/Content/__ExternalActors__/tomWork/TemplateContent/FirstPerson/Maps/FirstPersonMap/1/SA/06P03Z6V2TQGSFK1PRCZCQ.uasset",
 				"C:/Users/win11/Documents/GitHub/the-last-check-in/Content/__ExternalActors__/tomWork/TemplateContent/FirstPerson/Maps/FirstPersonMap/A/LF/WS8UX3Q1DLCU3DRG5OIKKM.uasset",
+<<<<<<< Updated upstream
 				"C:/Users/win11/Documents/GitHub/the-last-check-in/Content/Actors/BP_InspectableProp.uasset",
 				"C:/Users/win11/Documents/GitHub/the-last-check-in/Content/Actors/BP_ItemPickup.uasset",
 				"C:/Users/win11/Documents/GitHub/the-last-check-in/Content/Actors/BP_Door.uasset",
@@ -302,6 +303,25 @@
 				"C:/Users/win11/Documents/GitHub/the-last-check-in/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"C:/Users/win11/Documents/GitHub/the-last-check-in/Content/TemplateContent/FirstPerson/Maps/FirstPersonMap.umap",
 				"C:/Users/win11/Documents/GitHub/the-last-check-in/Content/TemplateContent/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset"
+=======
+				"C:/Users/win11/Documents/GitHub/the-last-check-in/Content/ollieWork/Evidence_Proto/BP_ObservableItem.uasset",
+				"C:/Users/win11/Documents/GitHub/the-last-check-in/Content/tomWork/Widgets/WBP_InspectPropUI.uasset",
+				"C:/Users/win11/Documents/GitHub/the-last-check-in/Content/ollieWork/Evidence_Proto/BP_Camera.uasset",
+				"C:/Users/win11/Documents/GitHub/the-last-check-in/Content/tomWork/Actors/BP_Evidence.uasset",
+				"C:/Users/win11/Documents/GitHub/the-last-check-in/Content/tomWork/Actors/BP_InteractableObject.uasset",
+				"C:/Users/win11/Documents/GitHub/the-last-check-in/Content/tomWork/Actors/BP_InteractableEvidence.uasset",
+				"C:/Users/win11/Documents/GitHub/the-last-check-in/Content/tomWork/DataTypes/DT_EvidenceSKU.uasset",
+				"C:/Users/win11/Documents/GitHub/the-last-check-in/Content/__ExternalActors__/tomWork/TemplateContent/FirstPerson/Maps/FirstPersonMap/C/46/4OH3XQ28NOPBMP7ISIP3A9.uasset",
+				"C:/Users/win11/Documents/GitHub/the-last-check-in/Content/tomWork/GameObjects/GI_Main.uasset",
+				"C:/Users/win11/Documents/GitHub/the-last-check-in/Content/tomWork/GameObjects/GM_Main.uasset",
+				"C:/Users/win11/Documents/GitHub/the-last-check-in/Content/tomWork/DataTypes/Struct_Evidence.uasset",
+				"C:/Users/win11/Documents/GitHub/the-last-check-in/Content/Evidence_Proto/BP_Camera.uasset",
+				"C:/Users/win11/Documents/GitHub/the-last-check-in/Content/Evidence_Proto/BP_Paper.uasset",
+				"C:/Users/win11/Documents/GitHub/the-last-check-in/Content/Eben_Work/player_stuff/Blueprints/BP_FirstPersonCharacterEben.uasset",
+				"C:/Users/win11/Documents/GitHub/the-last-check-in/Content/Eben_Work/player_stuff/Blueprints/BP_FirstPersonPlayerControllerEben.uasset",
+				"C:/Users/win11/Documents/GitHub/the-last-check-in/Content/Eben_Work/player_stuff/Blueprints/BP_FirstPersonGameModeEben.uasset",
+				"C:/Users/win11/Documents/GitHub/the-last-check-in/Content/Eben_Work/player_stuff/Blueprints/BP_FirstPersonGameMode.uasset"
+>>>>>>> Stashed changes
 			]
 		}
 	]
