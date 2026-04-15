@@ -1,0 +1,5 @@
+# GitIgnore for The Last Check In
+
+Saved/*
+Intermediate/*
+DerivedDataCache/*
