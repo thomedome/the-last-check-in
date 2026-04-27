@@ -3,3 +3,8 @@
 Saved/*
 Intermediate/*
 DerivedDataCache/*
+*.uasset
+Content/lukeWork/Levels/FirstIterationMap.umap
+*.json
+/Saved/Telemetry
+Saved/Telemetry/Telemetry.json
