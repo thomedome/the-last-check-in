@@ -1,10 +1,10 @@
 # GitIgnore for The Last Check In
 
-Saved/*
-Intermediate/*
-DerivedDataCache/*
+/Saved/*
+/Intermediate/*
+/DerivedDataCache/*
 *.uasset
-Content/lukeWork/Levels/FirstIterationMap.umap
+/Content/lukeWork/Levels/FirstIterationMap.umap
 *.json
 /Saved/Telemetry
-Saved/Telemetry/Telemetry.json
+/Saved/Telemetry/Telemetry.json
