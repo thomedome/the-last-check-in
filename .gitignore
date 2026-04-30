@@ -1,5 +1,15 @@
 # GitIgnore for The Last Check In
 
-/Saved
+
+# Logs + Telem
+/Saved 
+
+# Temp files from builds
 /Intermediate
+
+# Shaders etc
 /DerivedDataCache
+
+# Build stuff
+
+/Build
